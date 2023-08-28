@@ -21,7 +21,7 @@ Follow these steps to incorporate the authentication pages into your project:
 1. **Clone the Repository:** Begin by cloning this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/authentication-pages.git
+   [git clone https://github.com/your-username/authentication-pages.git](https://github.com/delta5by5github/Login)
    ```
 
 2. **Navigate to the Directory:** Move into the cloned directory:
